@@ -6,7 +6,7 @@
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
 
-The data is from my a job searching app [Datanerd.tech](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVlNU3ZNQlZmWHdnVWZUdk1mVWFNWncxU0ZRUXxBQ3Jtc0tscUxTUllFM3ltbGJ2S1RFejBuVE9XZE4zUUFWUG16UDBXNmxXbHE4LXdKZ0EyVGQwaHpGcnROZWVYNDhDSUt3VWVSbHRfMXJQX1gteUw5dkRmVWFpVzhjdkJaX21pdVdTbm5WNjVRcmFPd1VheTRlSQ&q=https%3A%2F%2Fdatanerd.tech%2F&v=mE6AbbllXr8). The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.  
+The data is from a job searching app [Datanerd.tech](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVlNU3ZNQlZmWHdnVWZUdk1mVWFNWncxU0ZRUXxBQ3Jtc0tscUxTUllFM3ltbGJ2S1RFejBuVE9XZE4zUUFWUG16UDBXNmxXbHE4LXdKZ0EyVGQwaHpGcnROZWVYNDhDSUt3VWVSbHRfMXJQX1gteUw5dkRmVWFpVzhjdkJaX21pdVdTbm5WNjVRcmFPd1VheTRlSQ&q=https%3A%2F%2Fdatanerd.tech%2F&v=mE6AbbllXr8). The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.  
 
 
 ### Excel Skills Used
@@ -19,7 +19,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
+The dataset used for this project contains real-world data science job information from 2023. It includes detailed information on:
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
@@ -116,7 +116,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available [Datanerd.tech](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVlNU3ZNQlZmWHdnVWZUdk1mVWFNWncxU0ZRUXxBQ3Jtc0tscUxTUllFM3ltbGJ2S1RFejBuVE9XZE4zUUFWUG16UDBXNmxXbHE4LXdKZ0EyVGQwaHpGcnROZWVYNDhDSUt3VWVSbHRfMXJQX1gteUw5dkRmVWFpVzhjdkJaX21pdVdTbm5WNjVRcmFPd1VheTRlSQ&q=https%3A%2F%2Fdatanerd.tech%2F&v=mE6AbbllXr8), which provides a foundation for analyzing data using Excel. 
+The dataset used for this project contains real-world data science job information from 2023. The dataset is available at [Datanerd.tech](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVlNU3ZNQlZmWHdnVWZUdk1mVWFNWncxU0ZRUXxBQ3Jtc0tscUxTUllFM3ltbGJ2S1RFejBuVE9XZE4zUUFWUG16UDBXNmxXbHE4LXdKZ0EyVGQwaHpGcnROZWVYNDhDSUt3VWVSbHRfMXJQX1gteUw5dkRmVWFpVzhjdkJaX21pdVdTbm5WNjVRcmFPd1VheTRlSQ&q=https%3A%2F%2Fdatanerd.tech%2F&v=mE6AbbllXr8) , which provides a foundation for analyzing data using Excel. 
 
 It includes detailed information on:
 
